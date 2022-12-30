@@ -624,7 +624,7 @@ ul {
 
 		.main.style2 {
 			background-color: rgb(89, 34, 34);
-			background-image: url('images/red-background3-resize.jpg');
+			background-image: url('images/red-background3-resize.webp');
 			color: rgb(255, 255, 255);
 			background-attachment: fixed, fixed;;
 			background-size: cover;
@@ -645,7 +645,7 @@ ul {
 		padding: 9em 0 9em 0 ;
 		background-color: #4686a0;
 		color: rgb(255, 255, 255);
-		background-image: url("images/dumps-top2-resize.jpg");
+		background-image: url("images/dumps-top2-resize.webp");
 		background-position: center center;
 		background-size: cover;
 		overflow: hidden;
